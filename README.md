@@ -1,11 +1,13 @@
 # LOAD JSON DATA
+
+- [Stock Tracker](https://ibb.co/X7ZzBMY)
+- I want to extend my heartfelt thanks to [Deeksha Sharma](https://github.com/deekshasharma) for creating and maintaining this fantastic project.
+
 ## [Set Up React App](https://www.pluralsight.com/guides/load-and-render-json-data-into-react-components)
-<code>
-npx create-react-app load-json-data
+<code>npx create-react-app load-json-data
 
 cd load-json-data
 </code>
-
 
 ## [Add JSON Data to a File](src/data.js)
 
