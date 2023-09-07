@@ -1,6 +1,6 @@
 # LOAD JSON DATA
 
-- [Stock Tracker](https://ibb.co/X7ZzBMY)
+![Stock Tracker](https://i.ibb.co/hBRK5wY/O2UYVP5.pngV)
 - I want to extend my heartfelt thanks to [Deeksha Sharma](https://github.com/deekshasharma) for creating and maintaining this fantastic project.
 
 ## [Set Up React App](https://www.pluralsight.com/guides/load-and-render-json-data-into-react-components)
